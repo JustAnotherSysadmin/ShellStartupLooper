@@ -14,4 +14,5 @@ Value name: Shell
 Value type: REG_SZ 
 
 Value data: c:\scripts\ie-kioskforever.exe https://webtime2.example.com/webtime/webclock 
-
+   ================================ OR ================================
+Value data: c:\scripts\Chrome-forever-Kioskmode.exe  https://someURL.example.com/webtime/webclock 
